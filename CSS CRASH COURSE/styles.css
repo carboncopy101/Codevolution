@@ -72,3 +72,70 @@
   #title {
     color: orange 
   }
+
+  .inheritance {
+    color: orange;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 30px;
+  }
+
+  th, td {
+    border-bottom: 1px solid #ccc;
+  }
+
+  table {
+    border-collapse: collapse;
+    width: 60%
+  }
+
+  td {
+    text-align: center;
+    height: 50px;
+    
+  }
+
+  .content1 {
+    border: 1px solid red;
+    display: inline;
+  }
+
+  .content2 {
+    border: 1px solid blue;
+    display: none;
+  }
+
+  .position1 {
+    border: 1px solid red;
+    position: sticky;
+    top: 50px;
+    left: 50px;
+  }
+
+  .position2 {
+    border: 1px solid blue;
+    position:absolute;
+    bottom: 0px;
+    right: 0px;
+  }
+
+  .container {
+    position: relative;
+    width: 200px;
+    height: 2000px;
+    border: 1px solid black;
+  }
+
+  .em-container {
+    font-size: 20px;
+    heigth: 2em;
+  }
+
+  .em { 
+    font-size: 1.5em;
+  }
+
+  .rem {
+    font-size: 4rem;
+    height: max(50vh, 600px);
+    border: 1px solid #333;
+  }
