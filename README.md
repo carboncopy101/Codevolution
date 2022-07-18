@@ -5,6 +5,10 @@ Repository contains the code along the different lectures provided by Codevoluti
 ## 18 July 2022
 
 Started the CSS flexbox crashcourse.
+working on container class
+working on flex item props na
+done with CSS flexbox
+Will start on CSS Grid.
 
 ## 15 July 2022 
 
